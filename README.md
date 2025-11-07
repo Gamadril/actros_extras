@@ -10,3 +10,10 @@ ESC holder designed for the Hobbywing Quicrun WP 1080.
 
 ![](images/esc_holder_1.jpg)
 ![](images/esc_holder_2.jpg)
+
+## battery_holder
+Battery holder to put inside the cabin.
+
+[battery_holder.stl](battery_holder/battery_holder.stl)
+
+![battery_holder.jpg](images/battery_holder.jpg)
