@@ -17,3 +17,9 @@ Battery holder to put inside the cabin.
 [battery_holder.stl](battery_holder/battery_holder.stl)
 
 ![battery_holder.jpg](images/battery_holder.jpg)
+
+## rear_lights
+Redesign of rear lights for 6 LEDs and custom board
+
+![rear_3.jpg](images/rear_3.jpg)
+![rear_8.jpg](images/rear_8.jpg)
