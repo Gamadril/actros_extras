@@ -18,3 +18,10 @@ Redesign of rear lights for 6 LEDs and custom board.
 ![rear_4.j pg](images/rear_4.jpg)
 ![rear_3.jpg](images/rear_3.jpg)
 ![rear_8.jpg](images/rear_8.jpg)
+
+## rgb_mb_star
+MB Star with RGB backlight.
+
+![mb_star_1.jpg](images/mb_star_1.jpg)
+![mb_star_3.jpg](images/mb_star_3.jpg)
+![mb_star_4.jpg](images/mb_star_4.jpg)
