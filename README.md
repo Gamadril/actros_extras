@@ -12,6 +12,13 @@ Battery holder to put inside the cabin.
 
 ![battery_holder.jpg](images/battery_holder.jpg)
 
+## front_lights
+Redesign of front lights incl. parking light and custom boards.
+
+![front_1.jpg](images/front_1.jpg)
+![front_2.jpg](images/front_2.jpg)
+![front_5.jpg](images/front_5.jpg)
+
 ## rear_lights
 Redesign of rear lights for 6 LEDs and custom board.
 
